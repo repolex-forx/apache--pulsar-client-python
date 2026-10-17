@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/apache/pulsar-client-python/commit/e0cff2cbd6769f2839b56e2f89391255ab0be1ca",
       "git:hexsha": "e0cff2cbd6769f2839b56e2f89391255ab0be1ca",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T01:17:39.845856+00:00"
     },
     {
       "@id": "https://repolex.ai/r/apache/pulsar-client-python/commit/46acc487ad16fdc0aeea9dae64484030e62c1b96",
